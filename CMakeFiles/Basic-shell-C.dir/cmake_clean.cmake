@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Basic-shell-C.dir/src/main.c.o"
-  "Basic-shell-C.pdb"
-  "Basic-shell-C"
+  "bin/Basic-shell-C.pdb"
+  "bin/Basic-shell-C"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,1 +1,1 @@
-/usr/bin/cc     CMakeFiles/Basic-shell-C.dir/src/main.c.o  -o Basic-shell-C shell/libshell.a 
+/usr/bin/cc     CMakeFiles/Basic-shell-C.dir/src/main.c.o  -o bin/Basic-shell-C shell/libshell.a 
