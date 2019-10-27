@@ -1,0 +1,6 @@
+/home/goldeorange/Programming/C and C++/basic-shell-C/CMakeFiles/edit_cache.dir
+/home/goldeorange/Programming/C and C++/basic-shell-C/CMakeFiles/rebuild_cache.dir
+/home/goldeorange/Programming/C and C++/basic-shell-C/CMakeFiles/Basic-shell-C.dir
+/home/goldeorange/Programming/C and C++/basic-shell-C/shell/CMakeFiles/edit_cache.dir
+/home/goldeorange/Programming/C and C++/basic-shell-C/shell/CMakeFiles/rebuild_cache.dir
+/home/goldeorange/Programming/C and C++/basic-shell-C/shell/CMakeFiles/shell.dir

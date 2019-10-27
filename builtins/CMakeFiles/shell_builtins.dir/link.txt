@@ -1,0 +1,2 @@
+/usr/bin/ar qc libshell_builtins.a  CMakeFiles/shell_builtins.dir/shell_builtins.c.o
+/usr/bin/ranlib libshell_builtins.a

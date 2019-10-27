@@ -1,0 +1,2 @@
+/usr/bin/ar qc libShell.a  CMakeFiles/Shell.dir/shell.c.o
+/usr/bin/ranlib libShell.a

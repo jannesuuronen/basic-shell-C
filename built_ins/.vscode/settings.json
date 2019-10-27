@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "shell_built_ins.h": "c",
+        "shell_builtins.h": "c"
+    }
+}

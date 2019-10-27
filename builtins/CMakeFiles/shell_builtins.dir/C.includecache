@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/goldeorange/Programming/C and C++/basic-shell-C/builtins/shell_builtins.c
+shell_builtins.h
+/home/goldeorange/Programming/C and C++/basic-shell-C/builtins/shell_builtins.h
+
+include/shell_builtins.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+unistd.h
+-
+
